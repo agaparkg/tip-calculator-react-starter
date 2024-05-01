@@ -34,10 +34,16 @@ function App() {
           Calculate!
         </button>
       </div>
-      <div id="totalTip">
+      <div className="totalTip">
+        <span>Total Tip: </span>
         <sup>$</sup>
-        <span id="tip">0.00</span>
-        <small id="each"> each</small>
+        <span className="tip">0.00</span>
+      </div>
+      <div className="totalTip">
+        <span>Total tip per person: </span>
+        <sup>$</sup>
+        <span className="tip">0.00</span>
+        <small id="each">/person</small>
       </div>
     </div>
   );
