@@ -19,7 +19,7 @@ function App() {
           <p>How was your service?</p>
           <select id="serviceQual">
             <option disabled selected value="0">
-              -- Choose an Option --
+              -- Choose Tip Option --
             </option>
             <option value="0.3">30% - Outstanding</option>
             <option value="0.2">20% - Good</option>
