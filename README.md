@@ -6,7 +6,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 # UI View
 
-![view](./view.png)
+![view](./view1.png)
 
 ```javascript
 let totalTip = bill_amount * service_quality;
